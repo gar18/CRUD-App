@@ -1,7 +1,7 @@
 To install
- <!-- npm install -->
+ npm install 
 
 
 To Run Project
 
-<!-- react-scripts start -->
+ npm start
